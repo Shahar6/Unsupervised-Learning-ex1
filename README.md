@@ -10,7 +10,7 @@ DP-Means
 GMM  
 
 
-For each algorithm I have generated/ imported one 'good' dataset - where the algorithm is expected to do well and a 'bad'   
+For each algorithm I have generated/ imported one 'good' dataset - where the algorithm is expected to do well and a 'bad'  
 dataset - where the algorithm is expected to fail, to see how they will perform.  
 Below are the results:  
 
